@@ -35,28 +35,36 @@
             <div class="cImageInterior"><img src="images/formacion.jpg" width="585" height="107" alt="Consultor&iacute;a de LOPD"/> </div>
             <?php include ('inc/formacionLogin.php') ?>
             <ul class="tabs">
-                <li><a href="formacion-bonificada.php">Formaci&oacute;n</a></li>
-                <li><a href="formacion.php" class="current">Ventajas</a></li>
+                <li><a href="formacion-bonificada.php" class="current">Formaci&oacute;n</a></li>
+                <li><a href="formacion.php">Ventajas</a></li>
                 <li><a href="formacion-metodologias.php">Metodolog&iacute;a</a></li>
                 <li><a href="formacion-distancia.php">Distancia</a></li>
                 <li><a href="formacion-teleformacion.php">Teleformaci&oacute;n</a></li>
                 <li><a href="formacion-presenciales.php">Presenciales</a></li>
             </ul>  
-            <h3 class="bigTitle">Ventajas</h3>        
-            <h4 class="secondTitle"><b>Formaci&oacute;n a medida para cada empresa:</b></h4>
-            <p>Realizamos proyectos a medida para empresas, impartimos formaci&oacute;n en modalidad Presencial, Distancia y Tele-formaci&oacute;n.</p>
-            <h4 class="secondTitle"><b>F&aacute;cil de usar:</b></h4>
-            <p>No se necesitan conocimientos espec&iacute;ficos de inform&aacute;tica para realizar los cursos online. Nuestro sistema gu&iacute;a “Paso a paso” en todo el proceso de formaci&oacute;n.</p> 
-            <h4 class="secondTitle"><b>Formaci&oacute;n personalizada:</b></h4>
-            <p>Al propio ritmo de aprendizaje, sin condicionantes de grupo y atendido personalmente por profesores especializados, le permitirá recibir una 
-            formaci&oacute;n eminentemente pr&aacute;ctica.</p> 
-            <h4 class="secondTitle"><b>Desde cualquier PC:</b></h4>
-            <p>En el trabajo, en el domicilio, sin desplazamientos, sin gastos adicionales, con las claves de acceso que le facilitamos podr&aacute; acceder a los 
-            cursos online desde cualquier ordenador en cualquier parte del mundo.</p>     
-            <h4 class="secondTitle"><b>Disponible las 24 horas: </b></h4>
-            <p>Una formaci&oacute;n adaptada a cualquier horario y que permite conectarse en cualquier momento del d&iacute;a.</p> 
-             <h4 class="secondTitle"><b>Tutor presencial:</b></h4>
-            <p>Las consultas se resuelven mediante correo electrónico y otras herramientas de comunicaci&oacute;n.</p>            
+            
+
+            <h3 class="bigTitle">Formaci&oacute;n Bonificada</h3>
+
+            <p>Las empresas disponen de una cantidad econ&oacute;mica o "CR&Eacute;DITO" para financiar el Plan de Formaci&oacute;n de sus Trabajadores. 
+            &Eacute;ste cr&eacute;dito hay que utilizarlo dentro del mismo a&ntilde;o, ya que no es acumulable y por tanto si no se utiliza en un per&iacute;odo anual se pierde. </p>
+
+            <p>El cr&eacute;dito que una empresa dispone para invertir en la formaci&oacute;n de su personal se calcula aplicando un porcentaje sobre la 
+            cuant&iacute;a ingresada por la empresa a la Seguridad Social en concepto de cuota de formaci&oacute;n 
+            profesional y su plantilla media de trabajadores del a&ntilde;o anterior". </p>
+
+            <p style="color:#85012e">En este sentido como Entidad Organizadora de Formaci&oacute;n ofrecemos los siguientes servicios:</p>
+
+            <ul class="lopd">
+                <li>Asesoramiento sobre la selecci&oacute;n de cursos y/o desarrollo de planes formativos</li> 
+                <li>Documentaci&oacute;n necesaria para el inicio y desarrollo de la formaci&oacute;n </li>
+                <li>Convenio de Agrupaci&oacute;n y Solicitud de Formaci&oacute;n</li> 
+                <li>Impartici&oacute;n y tutor&iacute;as de cursos</li>
+                <li>Seguimiento y evaluaci&oacute;n del alumno/trabajador</li>
+                <li>Cierre y bonificaci&oacute;n de la acci&oacute;n formativa</li>
+                <li>Cierre documental y entrega de memoria a la empresa</li>
+                <li style="color:#85012e">Ofrecemos servicios como Entidad Organizadora de formaci&oacute;n /gestión frente a la Tripartita/ para centros de formaci&oacute;n</li>
+            </ul>           
         </div>
         <!--end left-->
         

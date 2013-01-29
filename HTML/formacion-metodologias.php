@@ -35,6 +35,7 @@
             <div class="cImageInterior"><img src="images/formacion.jpg" width="585" height="107" alt="Consultor&iacute;a de LOPD"/> </div>
             <?php include ('inc/formacionLogin.php') ?>
             <ul class="tabs">
+                <li><a href="formacion-bonificada.php">Formaci&oacute;n</a></li>
                 <li><a href="formacion.php">Ventajas</a></li>
                 <li><a href="formacion-metodologias.php" class="current">Metodolog&iacute;a</a></li>
                 <li><a href="formacion-distancia.php">Distancia</a></li>

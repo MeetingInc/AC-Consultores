@@ -34,13 +34,12 @@
     <div class="resize">
     	<!--cLEFT-->
         <div class="cLeft contact">
-        	<h2>Cu&eacute;ntenos sobre su proyecto</h2>
+        	<h2>Cu&eacute;ntenos sobre su necesidad</h2>
             <div class="cImageInterior"></div>
             <a href="#enlargeMap" class="iframeMap verMapa"></a>          
             <div class="clear"></div>
             <p>
-            Uilice el siguiente formulario para contarnos sobre su proyecto, solicitar m&aacute;s informaci&oacute;n o hacernos una consulta en particular.<br />
-            Nos comunicaremos con Ud. a la mayor brevedad posible.
+            Utilice este formulario para contarnos su necesidad o solicitar m&aacute;s informaci&oacute;n acerca de desarrollos web, formaci&oacute;n, proyectos o comunicaci&oacute;n.
             </p>
             <form id="form1" method="post" action="contactProcess.php">
             	<fieldset>

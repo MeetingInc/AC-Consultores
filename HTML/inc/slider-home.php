@@ -25,13 +25,13 @@
                 <img src="images/slider/formacion.jpg" width="427" height="281" alt="Formacion" />          	
             </div>
             <div class="info">
-                <h2>Formación Subvencionada <br />y Profesional</h2>
+                <h2>Formación Bonificada <br />y Profesional</h2>
                 <p>Ofrecemos modalidad Presencial, Distancia y Tele-Formación , más de 500 cursos,
                 Planes de Formación a medida, cursos destacados:  Coaching, Negociación, Marketing…
                 </p>
-                <a href="formacion.php" class="leermas">Leer más</a>
+                <a href="formacion-bonificada.php" class="leermas">Leer más</a>
             </div>
-            <a href="formacion.php" class="ctaFormacion">Vea todo lo que podemos ofrecerle</a>
+            <a href="formacion-bonificada.php" class="ctaFormacion">Vea todo lo que podemos ofrecerle</a>
         </div>
         <!--Item 02-->
         <div class="item">

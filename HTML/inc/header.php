@@ -20,7 +20,7 @@
           <li><a  <?php if ($mi_pagina=="home") echo 'class="active"'; ?> href="index.php">Home</a></li>
           <li><a  <?php if ($mi_pagina=="quienes-somos") echo 'class="active"'; ?> href="quienesSomos.php">Quienes Somos</a></li>
           <li class="products"><a  <?php if ($mi_pagina=="productos") echo 'class="active"'; ?> href="javascript:;">Productos</a></li>
-          <li><a  <?php if ($mi_pagina=="formacion") echo 'class="active"'; ?> href="formacion.php">Formación</a></li>
+          <li><a  <?php if ($mi_pagina=="formacion") echo 'class="active"'; ?> href="formacion-bonificada.php">Formación</a></li>
           <li><a  <?php if ($mi_pagina=="consultoria") echo 'class="active"'; ?> href="consultoriaLOPD.php">Consultoría LOPD</a></li>
           <li><a  <?php if ($mi_pagina=="contacto") echo 'class="active"'; ?> href="contacto.php">Contáctenos</a></li>
         </ul>

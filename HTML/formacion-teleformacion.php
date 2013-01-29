@@ -35,6 +35,7 @@
             <div class="cImageInterior"><img src="images/formacion.jpg" width="585" height="107" alt="Consultor&iacute;a de LOPD"/> </div>
             <?php include ('inc/formacionLogin.php') ?>
             <ul class="tabs">
+                <li><a href="formacion-bonificada.php">Formaci&oacute;n</a></li>
                 <li><a href="formacion.php">Ventajas</a></li>
                 <li><a href="formacion-metodologias.php">Metodolog&iacute;a</a></li>
                 <li><a href="formacion-distancia.php">Distancia</a></li>
@@ -50,29 +51,7 @@
             por tutores profesionales, con material did&aacute;ctico adecuado desde nuestra propia plataforma, 
             con registro de todas las actividades, desarrollo y tiempo en el aula virtual, 
             adem&aacute;s de contar en todo momento con el apoyo y la gu&iacute;a de un tutor profesional.</p>
-
-            <p><b>Formaci&oacute;n Subvencionada y Bonificaciones:</b></p>
-
-            <p>Las empresas disponen de una cantidad econ&oacute;mica o "CR&Eacute;DITO" para financiar el Plan de Formaci&oacute;n de sus Trabajadores. 
-            Esta cr&eacute;dito hay que utilizarlo dentro del mismo a&ntilde;o, ya que no es acumulable y por tanto si no se utiliza en un per&iacute;odo anual se pierde. </p>
-
-            <p>El cr&eacute;dito que una empresa dispone para invertir en la formaci&oacute;n de su personal se calcula aplicando un porcentaje sobre la 
-            cuant&iacute;a ingresada por la empresa a la Seguridad Social en concepto de cuota de formaci&oacute;n 
-            profesional y su plantilla media de trabajadores del a&ntilde;o anterior". </p>
-
-            <p style="color:#85012e">En este sentido como Entidad Organizadora de Formaci&oacute;n ofrecemos los siguientes servicios:</p>
-
-            <ul class="lopd">
-                <li>Asesoramiento sobre la selecci&oacute;n de cursos y/o desarrollo de planes formativos</li> 
-                <li>Documentaci&oacute;n necesaria para el inicio y desarrollo de la formaci&oacute;n </li>
-                <li>Convenio de Agrupaci&oacute;n y Solicitud de Formaci&oacute;n</li> 
-                <li>Impartici&oacute;n y tutor&iacute;as de cursos</li>
-                <li>Seguimiento y evaluaci&oacute;n del alumno/trabajador</li>
-                <li>Cierre y bonificaci&oacute;n de la acci&oacute;n formativa</li>
-                <li>Cierre documental y entrega de memoria a la empresa</li>
-                <li style="color:#85012e">Ofrecemos servicios como Entidad Organizadora de formaci&oacute;n /gestión frente a la Tripartita/ para centros de formaci&oacute;n</li>
-            </ul> 
-
+            
             <iframe src="http://www.aulasystem.com/lcursos/cursos_elearning.php" width="100%" height="350px" frameborder="0"></iframe>
 
            

@@ -36,8 +36,8 @@
         <li class="ai">
         	<a href="activos-en-internet.php">Diseño<br /> y Desarrollo Web.</a>
         </li>
-        <li class="ai">
-        	<a href="formacion.php">Formación<br /> subvencionada.</a>
+        <li class="fn">
+        	<a href="formacion-bonificada.php">Formación<br /> Bonificada.</a>
         </li>
         <li class="lopd">
         	<a href="consultoriaLOPD.php">LOPD Ley Orgánica<br /> de Protección de Datos.</a>        
