@@ -62,7 +62,7 @@
                      <div class="proyect">
                         <a class="group1" href="images/proyectos/romeraLopez.jpg" title="Sitio web para Romera L&oacute;pez"><img src="images/proyectos/thumb/romeraLopez.jpg"></a>
                         <h3 class="small">Romera L&oacute;pez</h3><br>
-                        <a class="linkProyect" href="#" target="_blank"style="display:none;">Ver sitio online</a>
+                        <a class="linkProyect" href="http://clinicadentalromeralopez.com/" target="_blank"style="display:none;">Ver sitio online</a>
                     </div>
                     <div class="proyect">
                         <a class="group1" href="images/proyectos/teresaCampo.jpg" title="Sitio web para Teresa Campo"><img src="images/proyectos/thumb/teresaCampo.jpg"></a>
