@@ -9,7 +9,7 @@
             <li>|</li>
         	<li><a href="desarrollo-proyectos.php">Productos</a></li>
             <li>|</li>
-        	<li><a href="formacion.php">Formación</a></li>
+        	<li><a href="formacion-bonificada.php">Formación</a></li>
             <li>|</li>
         	<li><a href="consultoria-lopd.php">Consultoría de LOPD</a></li>
             <li>|</li>
